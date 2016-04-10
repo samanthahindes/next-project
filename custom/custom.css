@@ -1,8 +1,14 @@
 
+
 .navbar-brand{
   font-size: 200%;
 }
 
 .jumbotron h1{
-  font-size: 10px;
+  font-size: 100%;
+}
+
+.jumbotron btn btn-primary btn-lg{
+  
+  color: #ffffff;
 }
