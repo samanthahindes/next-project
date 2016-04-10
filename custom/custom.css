@@ -6,9 +6,5 @@
 
 .jumbotron h1{
   font-size: 300%;
-}
-
-.jumbotron button{
-
-  color: #FFFC00;
+  font-color: #000000;
 }
