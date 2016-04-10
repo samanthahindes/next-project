@@ -9,3 +9,8 @@
   font-color: #000000;
   text-align: center;
 }
+
+.jumbotron h2{
+  font-size: 200%;
+  text-align: center;
+}
