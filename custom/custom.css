@@ -1,4 +1,8 @@
 
-.class navbar-brand{
+.navbar-brand{
   font-size: 200%;
+}
+
+.jumbotron h1{
+  font-size: 10px;
 }
