@@ -2,14 +2,21 @@
 
 .navbar-brand{
   font-size: 200%;
+  font-family: Arial, Verdana, sans-seriff;
 }
 
 .jumbotron h1{
   font-size: 300%;
-  font-color: #000000;
   text-align: center;
+  font-family: Arial, Verdana, sans-seriff;
 }
 
 .jumbotron h2{
   font-size: 200%;
+  font-family: Arial, Verdana, sans-seriff;
+}
+
+.container h2{
+  font-size: 200%;
+  font-family: Arial, Verdana, sans-seriff;
 }
