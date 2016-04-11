@@ -10,7 +10,8 @@
   text-align: center;
   font-family: Arial, Verdana, sans-seriff;
   text-transform: uppercase;
-  letter-spacing: 0.2em;
+  letter-spacing: normal;
+
 }
 
 .jumbotron h2{
@@ -21,4 +22,17 @@
 .container h2{
   font-size: 200%;
   font-family: Arial, Verdana, sans-seriff;
+}
+
+a:link{
+  color: #ffffff;
+}
+
+a:visited{
+  color: #3366ff;
+}
+
+a:hover{
+  color: #7575a3;
+  text-decoration: underline;
 }
