@@ -14,8 +14,10 @@
 
 }
 
-.jumbotron img{
-  position: relative;
+.jumbotron img.displayed{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
 }
 
 .jumbotron h2{
